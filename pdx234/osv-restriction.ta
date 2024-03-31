@@ -1,0 +1,10 @@
+// Miscta file that resets miscta unit 2330 (hex:0x91A) TA_OSV_RESTRICTION
+// to 0x00.
+// This file is included in the appsw.zip.
+// Ta files included in the appsw-zip will get automatically flashed by Emma.
+
+// Miscta ta partition
+02
+
+// format: Unit, size, data:
+0000091A 0001 00
