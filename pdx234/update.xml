@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UPDATE>
+  <SYSTEMPARTITIONIMAGE>partition.zip</SYSTEMPARTITIONIMAGE>
+  <BOOT>boot.zip</BOOT>
+  <NOERASE>userdata_X-FLASH-ALL-25B1.sin</NOERASE>
+  <NOERASE>metadata_X-FLASH-ALL-25B1.sin</NOERASE>
+  <NOERASE>appslog_X-FLASH-ALL-25B1.sin</NOERASE>
+  <NOERASE>diag_X-FLASH-ALL-25B1.sin</NOERASE>
+  <NOERASE>reset-retail-demo-active-sts.ta</NOERASE>
+  <FACTORY_ONLY>persist_X-FLASH-ALL-25B1.sin</FACTORY_ONLY>
+  <WKEY>0</WKEY>
+  <FINGERPRINT>Sony/XQ-DQ44/XQ-DQ44:14/67.1.A.2.208/067001A002020800236847703:user/release-keys</FINGERPRINT>
+</UPDATE>

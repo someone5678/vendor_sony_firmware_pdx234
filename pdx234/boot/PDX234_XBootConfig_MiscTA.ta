@@ -1,0 +1,25 @@
+//===========================================================
+// Yodo X Boot Config Data
+//
+// Config Data Description: Yodo_Xboot_Config.xlsm
+// Product: PDX234
+//
+//
+//
+// Created: 20220614 1426
+// Author: 22714852
+//
+// Specification document: S1 Boot Configuration Units [8/15935-LXE108010] http://doc.sonymobile.net/otcs/cs.exe?func=ll&objaction=overview&objid=11940569
+// Format:
+// [TAPartition<HEX8>]{1}
+// [UnitID<HEX32> UnitSize<HEX16> Data<HEX8>{UnitSize}]{n}
+//===========================================================
+02
+
+0000084F 0059 1A CE 28 00 01 00 07 05 00 02 02 0A 00 10 05 00
+              01 11 06 00 10 02 00 04 85 02 00 04 87 02 00 03
+              07 05 00 05 91 06 00 10 02 00 05 85 0A 00 02 00
+              A9 09 BE BA A9 09 00 00 04 00 03 00 02 00 04 00
+              04 00 B0 04 0E 00 06 00 B8 0B 01 4B 00 00 00 03
+              96 00 2C 01 03 00 09 00 01
+000008FD 0001 00

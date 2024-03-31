@@ -1,0 +1,10 @@
+// Miscta file that resets miscta unit 2311 (hex:0x907) TA_DISABLE_CHARGE_ONLY
+// to 0x00.
+// This file is included in the appsw.zip.
+// Ta files included in the appsw-zip will get automatically flashed by Emma.
+
+// Miscta ta partition
+02
+
+// format: Unit, size, data:
+00000907 0001 00

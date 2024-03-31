@@ -1,0 +1,10 @@
+// Miscta file that resets miscta unit 2590 (hex:0xA1E)
+// TA_RETAIL_DEMO_ACTIVE_STATUS to empty.
+// This file is included in the appsw.zip.
+// Ta files included in the appsw-zip will get automatically flashed by Emma.
+
+// Miscta ta partition
+02
+
+// format: Unit, size, data:
+00000a1e 0000
