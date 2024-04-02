@@ -1,0 +1,13 @@
+//===========================================================
+// TA file
+// Set misc ta TA CUSTOMER ID (2171) to ro.somce.customerid
+// Reference:http://jira.sonymobile.net/browse/FATOSPRJ-5675 
+//RID010737
+//
+// Ta files is created by Tokyo customiation team and upload to SI by SLM team.
+//02: misc ta
+//0000087b: 2171 
+//
+//===========================================================
+02
+0000087b 0007 63 39 39 39 39 39 30
